@@ -1,6 +1,8 @@
 # The Passport Page of a Country That Isn't There
 
-[![Competition](https://img.shields.io/badge/make.fun-competition-blue)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318) [![Rank](https://img.shields.io/badge/make.fun-rank-green)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318) [![Reward](https://img.shields.io/badge/make.fun-reward-gold)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318)
+[![make.fun · the-passport-page-of-a-countr-2-20261121-0318](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/bbulls013/the-passport-page-of-a-countr-2-20261121-0318/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/bbulls013/the-passport-page-of-a-countr-2-20261121-0318/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
 
 A deterministic Python program that draws an open passport spread for the
 invented **Republic of Virelai** — a working document first, a designed
